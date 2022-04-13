@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+.img{
+    width: 800px;
+    overflow: hidden;
+}
+.img_sub{display: flex;}   
+.img_sub li{}
+.img_sub li img{width: 800px;}
